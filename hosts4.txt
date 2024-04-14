@@ -1,4 +1,0 @@
-0.0.0.0 topsun.pw
-0.0.0.0 hostless.club
-0.0.0.0 croxy.network
-0.0.0.0 a.cpfrx.info
